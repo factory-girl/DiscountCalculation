@@ -1,0 +1,14 @@
+Script started on Sat 18 Jan 2014 07:31:46 PM NST
+softskeleton@softskeleton:~/workspace/Discount/src$ java Discount
+Please enter a purchase amount, -1 to quit: 
+1000
+Please enter a purchase amount, -1 to quit: 
+02  2000
+Please enter a purchase amount, -1 to quit: 
+-1
+Total sale, including discounts : 2700.0
+softskeleton@softskeleton:~/workspace/Discount/src$ exit script
+exit
+bash: exit: script: numeric argument required
+
+Script done on Sat 18 Jan 2014 07:32:13 PM NST
